@@ -2,11 +2,12 @@
 
 ## Installation
 
-You can install the package via composer:
+You can clone this repository:
 
 ```bash
-composer require dbt/laravel-project
+git clone https://github.com/DeBoerTool/laravel-package.git
 ```
+
 
 But it's more likely you'll want to use this as a template. Use GitHub's "Use this template" button to do that.
 
