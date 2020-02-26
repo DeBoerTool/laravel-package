@@ -1,6 +1,6 @@
-<?php
+<?php /** @noinspection PhpUnhandledExceptionInspection */
 
-namespace Dbt\PhpProject\Tests;
+namespace Dbt\LaravelProject\Tests\Unit;
 
 use PHPUnit\Framework\TestCase;
 
