@@ -1,6 +1,6 @@
 <?php
 
-namespace Dbt\LaravelProject\Tests\Integration;
+namespace Dbt\src\Tests\Integration;
 
 use Illuminate\Contracts\Config\Repository;
 use Illuminate\Contracts\Http\Kernel;
