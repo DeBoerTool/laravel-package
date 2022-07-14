@@ -1,6 +1,6 @@
 <?php
 
-namespace Dbt\src\Tests\Unit;
+namespace Dbt\LaravelProject\Tests\Unit;
 
 class SampleTest extends UnitTestCase
 {

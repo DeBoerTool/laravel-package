@@ -1,6 +1,6 @@
 <?php
 
-namespace Dbt\src\Tests\Integration;
+namespace Dbt\LaravelProject\Tests\Integration;
 
 class SampleTest extends IntegrationTestCase
 {

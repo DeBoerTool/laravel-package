@@ -1,6 +1,6 @@
 <?php
 
-namespace Dbt\src;
+namespace Dbt\LaravelProject;
 
 use Illuminate\Support\ServiceProvider as LaravelProvider;
 
